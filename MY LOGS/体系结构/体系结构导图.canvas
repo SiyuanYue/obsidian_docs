@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4451a3aa17d7bce4","type":"text","text":"体系结构","x":-100,"y":-160,"width":180,"height":50},
+		{"id":"47c8d5cb9e55998e","x":177,"y":-440,"width":400,"height":234,"type":"file","file":"体系结构/组成.md"},
+		{"id":"793ff4e4539fbcb5","type":"file","file":"体系结构/指令系统、软硬件协作.md","x":177,"y":40,"width":400,"height":240}
+	],
+	"edges":[
+		{"id":"d9cf61d52a3b98a1","fromNode":"4451a3aa17d7bce4","fromSide":"right","toNode":"793ff4e4539fbcb5","toSide":"left"},
+		{"id":"40802368359c4f73","fromNode":"4451a3aa17d7bce4","fromSide":"right","toNode":"47c8d5cb9e55998e","toSide":"left"},
+		{"id":"43437abb9a680b8c","fromNode":"47c8d5cb9e55998e","fromSide":"bottom","toNode":"793ff4e4539fbcb5","toSide":"top"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "pluginList": [
+    "Yaozhuwa/AttachFlow",
+    "ganesshkumar/obsidian-table-editor"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [
+    {
+      "repo": "AnubisNekhet/AnuPpuccin",
+      "lastUpdate": "29855550"
+    }
+  ],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "ribbonIconEnabled": true
+}

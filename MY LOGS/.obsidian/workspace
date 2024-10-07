@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "b9007819f09a20f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79d873f87b85611",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NJU OSLAB/笔记/NJUOS-2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba2b4ef356617c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e77e25bd1c3568a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d88b6d28315467",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "782569ae7149902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "qemu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f6bfa23941e77df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.50000190734863
+  },
+  "right": {
+    "id": "ff6fc7da753c988b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e018cb71f568cbea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4744654f630aea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NJU OSLAB/笔记/NJUOS-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecb57d25c5cda924",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NJU OSLAB/笔记/NJUOS-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d3d5f63bc39b2dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f73bdfc1586a0b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NJU OSLAB/笔记/NJUOS-2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d79d873f87b85611",
+  "lastOpenFiles": [
+    "NJU OSLAB/笔记/NJUOS.md",
+    "NJU OSLAB/笔记/NJUOS-2.md",
+    "NJU OSLAB/笔记/NJUOSLAB L0 报告.md",
+    "NJU OSLAB/笔记/NJUOSLAB M2.md",
+    "NJU OSLAB/笔记/some manual need to read.md",
+    "NJU OSLAB/笔记/setjmp & longjmp 非本地跳转.md",
+    "NJU OSLAB/笔记/NJUOSLAB M2报告.md",
+    "NJU OSLAB/笔记/NJUOSLAB L1.md",
+    "ML/未命名.md",
+    "计算机网络/运输层.md"
+  ]
+}

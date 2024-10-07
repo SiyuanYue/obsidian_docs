@@ -1,0 +1,18 @@
+{
+  "interfaceFontFamily": "HarmonyOS Sans",
+  "translucency": false,
+  "monospaceFontFamily": "Maple Mono SC NF,Noto Sans Mono CJK SC",
+  "baseFontSize": 16,
+  "cssTheme": "Border",
+  "accentColor": "#8826c9",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "yaozhuwa@CSS",
+    "段落首行缩进",
+    "预览模式优化-空白行-行间距"
+  ],
+  "textFontFamily": "HarmonyOS Sans",
+  "showViewHeader": true,
+  "nativeMenus": false
+}

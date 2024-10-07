@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "b9007819f09a20f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4158772a203236a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9535542c83b66051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPP/RAII.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba2b4ef356617c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e77e25bd1c3568a",
+        "type": "tabs",
+        "dimension": 71.48014440433214,
+        "children": [
+          {
+            "id": "50d88b6d28315467",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "782569ae7149902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f6bfa23941e77df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b2ca564519a246",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "799731b761167f30",
+        "type": "tabs",
+        "dimension": 28.519855595667867,
+        "children": [
+          {
+            "id": "a6cf26993a026cc7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.00840759277344
+  },
+  "right": {
+    "id": "ff6fc7da753c988b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e018cb71f568cbea",
+        "type": "tabs",
+        "dimension": 38.02647412755716,
+        "children": [
+          {
+            "id": "cd47ebf15f64060f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d3d5f63bc39b2dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a4744654f630aea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPP/RAII.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecb57d25c5cda924",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPP/RAII.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f73bdfc1586a0b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPP/RAII.md"
+              }
+            }
+          },
+          {
+            "id": "2cae095b471dc844",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa6cb780d35a5209",
+        "type": "tabs",
+        "dimension": 61.973525872442835,
+        "children": [
+          {
+            "id": "9da829423a1b24d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPP/RAII.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "canvas:新建白板": false,
+      "audio-recorder:开始/结束录音": false,
+      "big-calendar:Big Calendar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-weread-plugin:同步微信读书笔记": true,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "obsidian-file-cleaner:清理文件": false,
+      "command-palette:打开命令面板": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "9535542c83b66051",
+  "lastOpenFiles": [
+    "CPP/数组名函数名不等同指针.md",
+    "CPP/表达式与左右值.md",
+    "CPP/标量类型 POD.md",
+    "CPP/cmake/链接库.md",
+    "CPP/cmake/find_package.md",
+    "CPP/cmake/添加头文件.md",
+    "CPP/C++版本/C++ 17.md",
+    "CPP/C++版本/C++ 14.md",
+    "CPP/C++版本/C++ 11.md",
+    "CPP/现代C++核心特性解析/1基础类型.md",
+    "CPP/方向.md",
+    "CPP/侯捷STL/04 分配器（allocator）、new 、RAII.md",
+    "CPP/new.md",
+    "CPP/类对象生命周期.md",
+    "CPP/vector.md",
+    "CPP/static.md",
+    "CPP/split实现方式.md",
+    "CPP/RAII.md",
+    "CPP/字面值与常量.md",
+    "CPP/easyx.md",
+    "CPP/未命名看板.md",
+    "CPP/侯捷STL/01 STL体系结构介绍.md",
+    "Harmony OS NEXT/1.md",
+    "未命名.md",
+    "Harmony OS NEXT",
+    "毕设/ORB修改？.md",
+    "毕设/1. ORB--SLAM2概览.md",
+    "images/Astra相机标定.png",
+    "PDF/分布式共识计算.pdf",
+    "PDF/岳思源-作业4-鸿蒙系统分布式数据管理.pdf",
+    "PDF/岳思源-120L021112-鸿蒙文件系统报告.pdf",
+    "PDF/鸿蒙文件系统报告.pdf",
+    "分布式操作系统/images/鸿蒙文件系统报告-2.png",
+    "分布式操作系统/images/鸿蒙文件系统报告-1.png",
+    "分布式操作系统/images/鸿蒙文件系统报告.png",
+    "毕设/images/astra_s相机驱动安装与ROS查看图像-2.png",
+    "毕设/images/astra_s相机驱动安装与ROS查看图像-1.png",
+    "毕设/images/astra_s相机驱动安装与ROS查看图像.png",
+    "PDF/鸿蒙系统分布式数据管理.pdf",
+    "分布式操作系统/images/鸿蒙系统分布式数据管理-5.png",
+    "分布式操作系统/images/鸿蒙系统分布式数据管理-4.png",
+    "分布式操作系统/images/Pasted image 20240502231923.png",
+    "PDF/astra_s相机驱动安装与ROS查看图像.pdf",
+    "PDF/astra_s相机 ROS melodic.pdf",
+    "PDF/ORB-SLAM3安装与运行.pdf",
+    "PDF/岳思源-作业3-LiteOS任务调度.pdf",
+    "体系结构/体系结构导图.canvas",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
+  ]
+}

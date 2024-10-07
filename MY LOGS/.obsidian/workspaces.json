@@ -1,0 +1,245 @@
+{
+  "workspaces": {
+    "new!!!!!!": {
+      "main": {
+        "id": "b9007819f09a20f7",
+        "type": "split",
+        "children": [
+          {
+            "id": "91ddf00f5a29643b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8fbdf444e0c5f305",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vim/上手必备.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9c620d21671b773d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毕设/ORB-SLAM2.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "fd728760f6aee958",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "一生一芯/yosys-ista.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ba2b4ef356617c31",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e77e25bd1c3568a",
+            "type": "tabs",
+            "dimension": 71.48014440433214,
+            "children": [
+              {
+                "id": "50d88b6d28315467",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "782569ae7149902b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#qemu",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0f6bfa23941e77df",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "799731b761167f30",
+            "type": "tabs",
+            "dimension": 28.519855595667867,
+            "children": [
+              {
+                "id": "a6cf26993a026cc7",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.00840759277344
+      },
+      "right": {
+        "id": "ff6fc7da753c988b",
+        "type": "split",
+        "children": [
+          {
+            "id": "e018cb71f568cbea",
+            "type": "tabs",
+            "dimension": 38.02647412755716,
+            "children": [
+              {
+                "id": "cd47ebf15f64060f",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d3d5f63bc39b2dd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7a4744654f630aea",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "毕设/ORB-SLAM2.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecb57d25c5cda924",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "毕设/ORB-SLAM2.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9f73bdfc1586a0b5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "毕设/ORB-SLAM2.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "aa6cb780d35a5209",
+            "type": "tabs",
+            "dimension": 61.973525872442835,
+            "children": [
+              {
+                "id": "9da829423a1b24d2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "毕设/ORB-SLAM2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 416.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "canvas:新建白板": false,
+          "audio-recorder:开始/结束录音": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-weread-plugin:同步微信读书笔记": true,
+          "obsidian-statusbar-pomo:Start pomodoro": false,
+          "pdf-plus:PDF++: Toggle auto-copy": true,
+          "pdf-plus:PDF++: Toggle auto-focus": true,
+          "obsidian-file-cleaner:清理文件": false,
+          "command-palette:打开命令面板": true,
+          "pdf-plus:PDF++: Toggle auto-paste": true,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "obsidian-memos:Memos": false,
+          "templates:插入模板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "obsidian42-brat:BRAT": false
+        }
+      },
+      "active": "9c620d21671b773d",
+      "mtime": "2024-04-08T18:57:07+08:00"
+    }
+  },
+  "active": "new!!!!!!"
+}

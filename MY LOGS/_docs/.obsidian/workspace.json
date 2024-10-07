@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0ee31b412b7aa98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4329b244b74dec10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b44e1c363244b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting up development and test sets/ch05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb0180b009070099",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cd73f42923979e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9fbcaf51fbe8080",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60f1677cfe7af9c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d431de293294e57d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b79027d924b01bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f32ea857488fede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a8994ba4c33d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting up development and test sets/ch05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9de306b11422a718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting up development and test sets/ch05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90ca3e6cfab4b9cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fe85d558201659e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting up development and test sets/ch05.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5b44e1c363244b93",
+  "lastOpenFiles": [
+    "Setting up development and test sets/ch06.md",
+    "Bias and Variance/ch27.md",
+    "Basic Error Analysis/ch19.md",
+    "Bias and Variance/ch25.md",
+    "Bias and Variance/ch22.md",
+    "Bias and Variance/ch20.md",
+    "Bias and Variance/ch23.md",
+    "Bias and Variance/ch21.md",
+    "Basic Error Analysis/ch18.md",
+    "Basic Error Analysis/ch17.md",
+    "ch01.md",
+    "ch04.md",
+    "index.md",
+    "index.pdf",
+    "ch02.md",
+    "Basic Error Analysis/ch14.md",
+    "Basic Error Analysis/ch13.md"
+  ]
+}

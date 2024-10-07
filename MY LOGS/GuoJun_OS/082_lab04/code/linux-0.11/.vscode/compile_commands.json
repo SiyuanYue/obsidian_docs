@@ -1,0 +1,902 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "open.o",
+            "open.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "open.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "block_dev.o",
+            "block_dev.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "block_dev.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "ll_rw_blk.o",
+            "ll_rw_blk.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/blk_drv",
+        "file": "ll_rw_blk.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "pipe.o",
+            "pipe.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "pipe.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "execve.o",
+            "execve.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "execve.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "write.o",
+            "write.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "write.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "printk.o",
+            "printk.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "printk.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "string.o",
+            "string.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "string.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "bitmap.o",
+            "bitmap.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "bitmap.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "fcntl.o",
+            "fcntl.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "fcntl.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "panic.o",
+            "panic.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "panic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "traps.o",
+            "traps.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "traps.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "_exit.o",
+            "_exit.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "_exit.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "mktime.o",
+            "mktime.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "mktime.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "namei.o",
+            "namei.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "namei.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "char_dev.o",
+            "char_dev.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "char_dev.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "open.o",
+            "open.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "open.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "ioctl.o",
+            "ioctl.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "ioctl.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "memory.o",
+            "memory.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/mm",
+        "file": "memory.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "errno.o",
+            "errno.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "errno.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "stat.o",
+            "stat.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "stat.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "file_table.o",
+            "file_table.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "file_table.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "floppy.o",
+            "floppy.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/blk_drv",
+        "file": "floppy.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "super.o",
+            "super.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "super.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "wait.o",
+            "wait.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "wait.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-Iinclude",
+            "-o",
+            "init/main.o",
+            "init/main.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11",
+        "file": "init/main.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "tty_ioctl.o",
+            "tty_ioctl.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/chr_drv",
+        "file": "tty_ioctl.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "signal.o",
+            "signal.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "signal.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "read_write.o",
+            "read_write.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "read_write.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "sys.o",
+            "sys.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "sys.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "close.o",
+            "close.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "close.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "ramdisk.o",
+            "ramdisk.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/blk_drv",
+        "file": "ramdisk.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "malloc.o",
+            "malloc.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "malloc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "tty_io.o",
+            "tty_io.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/chr_drv",
+        "file": "tty_io.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "buffer.o",
+            "buffer.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "buffer.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "exit.o",
+            "exit.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "exit.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "dup.o",
+            "dup.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "dup.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "inode.o",
+            "inode.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "inode.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "serial.o",
+            "serial.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/chr_drv",
+        "file": "serial.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "sched.o",
+            "sched.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "sched.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "setsid.o",
+            "setsid.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "setsid.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "hd.o",
+            "hd.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/blk_drv",
+        "file": "hd.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "ctype.o",
+            "ctype.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/lib",
+        "file": "ctype.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "exec.o",
+            "exec.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "exec.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "truncate.o",
+            "truncate.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "truncate.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "fork.o",
+            "fork.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "fork.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "vsprintf.o",
+            "vsprintf.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel",
+        "file": "vsprintf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "console.o",
+            "console.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/chr_drv",
+        "file": "console.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../../include",
+            "-o",
+            "math_emulate.o",
+            "math_emulate.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/kernel/math",
+        "file": "math_emulate.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-m32",
+            "-fno-builtin",
+            "-fno-stack-protector",
+            "-fomit-frame-pointer",
+            "-fstrength-reduce",
+            "-I../include",
+            "-o",
+            "file_dev.o",
+            "file_dev.c"
+        ],
+        "directory": "/home/ysy/oslab/linux-0.11/fs",
+        "file": "file_dev.c"
+    }
+]

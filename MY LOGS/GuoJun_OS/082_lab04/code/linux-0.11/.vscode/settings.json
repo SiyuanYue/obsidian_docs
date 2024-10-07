@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sched.h": "c",
+        "unistd.h": "c",
+        "kernel.h": "c",
+        "string.h": "c",
+        "fcntl.h": "c",
+        "errno.h": "c"
+    }
+}
