@@ -3,14 +3,14 @@
   "translucency": false,
   "monospaceFontFamily": "Maple Mono SC NF,Noto Sans Mono CJK SC",
   "baseFontSize": 16,
-  "cssTheme": "Border",
+  "cssTheme": "theme",
   "accentColor": "#8826c9",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
-    "extended-colorschemes",
+    "预览模式优化-空白行-行间距",
     "yaozhuwa@CSS",
-    "段落首行缩进",
-    "预览模式优化-空白行-行间距"
+    "extended-colorschemes",
+    "段落首行缩进"
   ],
   "textFontFamily": "HarmonyOS Sans",
   "showViewHeader": true,

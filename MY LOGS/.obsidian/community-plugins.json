@@ -8,7 +8,6 @@
   "recent-files-obsidian",
   "floating-toc",
   "editing-toolbar",
-  "obsidian-kanban",
   "obsidian-memos",
   "obsidian-quiet-outline",
   "obsidian-mind-map",
@@ -26,5 +25,6 @@
   "attachment-flow-plugin",
   "obsidian-auto-link-title",
   "calendar",
-  "settings-search"
+  "settings-search",
+  "obsidian-kanban"
 ]

@@ -1,204 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "RAII",
-      "path": "CPP/RAII.md"
-    },
-    {
-      "basename": "数组名函数名不等同指针",
-      "path": "CPP/数组名函数名不等同指针.md"
-    },
-    {
-      "basename": "表达式与左右值",
-      "path": "CPP/表达式与左右值.md"
-    },
-    {
-      "basename": "标量类型 POD",
-      "path": "CPP/标量类型 POD.md"
-    },
-    {
-      "basename": "链接库",
-      "path": "CPP/cmake/链接库.md"
-    },
-    {
-      "basename": "find_package",
-      "path": "CPP/cmake/find_package.md"
-    },
-    {
-      "basename": "添加头文件",
-      "path": "CPP/cmake/添加头文件.md"
-    },
-    {
-      "basename": "C++ 17",
-      "path": "CPP/C++版本/C++ 17.md"
-    },
-    {
-      "basename": "C++ 14",
-      "path": "CPP/C++版本/C++ 14.md"
-    },
-    {
-      "basename": "C++ 11",
-      "path": "CPP/C++版本/C++ 11.md"
-    },
-    {
-      "basename": "1基础类型",
-      "path": "CPP/现代C++核心特性解析/1基础类型.md"
-    },
-    {
-      "basename": "方向",
-      "path": "CPP/方向.md"
+      "basename": "1",
+      "path": "CPP/C++ primer 二周目/1.md"
     },
     {
       "basename": "04 分配器（allocator）、new 、RAII",
       "path": "CPP/侯捷STL/04 分配器（allocator）、new 、RAII.md"
     },
     {
-      "basename": "new",
-      "path": "CPP/new.md"
-    },
-    {
-      "basename": "类对象生命周期",
-      "path": "CPP/类对象生命周期.md"
-    },
-    {
-      "basename": "vector",
-      "path": "CPP/vector.md"
-    },
-    {
-      "basename": "static",
-      "path": "CPP/static.md"
-    },
-    {
-      "basename": "split实现方式",
-      "path": "CPP/split实现方式.md"
-    },
-    {
       "basename": "字面值与常量",
       "path": "CPP/字面值与常量.md"
     },
     {
-      "basename": "01 STL体系结构介绍",
-      "path": "CPP/侯捷STL/01 STL体系结构介绍.md"
+      "basename": "标量类型 POD",
+      "path": "CPP/标量类型 POD.md"
     },
     {
-      "basename": "1",
-      "path": "Harmony OS NEXT/1.md"
-    },
-    {
-      "basename": "ORB修改？",
-      "path": "毕设/ORB修改？.md"
-    },
-    {
-      "basename": "1. ORB--SLAM2概览",
-      "path": "毕设/1. ORB--SLAM2概览.md"
-    },
-    {
-      "basename": "4 track",
-      "path": "毕设/4 track.md"
-    },
-    {
-      "basename": "astra_s相机驱动安装与ROS查看图像",
-      "path": "毕设/astra_s相机驱动安装与ROS查看图像.md"
-    },
-    {
-      "basename": "ORB-SLAM3安装与运行",
-      "path": "毕设/ORB-SLAM3安装与运行.md"
-    },
-    {
-      "basename": "Astra相机标定",
-      "path": "Astra相机标定.md"
-    },
-    {
-      "basename": "opencv3.2 完全安装 & astra 相机运行ORB_SLAM3 RGBD案例",
-      "path": "毕设/opencv3.2 完全安装 & astra 相机运行ORB_SLAM3 RGBD案例.md"
-    },
-    {
-      "basename": "论文引用",
-      "path": "毕设/论文引用.md"
-    },
-    {
-      "basename": "git",
-      "path": "git.md"
-    },
-    {
-      "basename": "分布式共识计算",
-      "path": "分布式操作系统/分布式共识计算.md"
-    },
-    {
-      "basename": "分布式任务调度",
-      "path": "分布式操作系统/分布式任务调度.md"
-    },
-    {
-      "basename": "鸿蒙文件系统报告",
-      "path": "分布式操作系统/鸿蒙文件系统报告.md"
-    },
-    {
-      "basename": "鸿蒙系统分布式数据管理",
-      "path": "分布式操作系统/鸿蒙系统分布式数据管理.md"
-    },
-    {
-      "basename": "岳思源-作业4-鸿蒙系统分布式数据管理",
-      "path": "PDF/岳思源-作业4-鸿蒙系统分布式数据管理.pdf"
-    },
-    {
-      "basename": "3 ORB2 地图点",
-      "path": "毕设/3 ORB2 地图点.md"
+      "basename": "标量类型 POD",
+      "path": "PDF/标量类型 POD.pdf"
     },
     {
       "basename": "基础篇",
       "path": "vim/基础篇.md"
     },
     {
-      "basename": "verilog",
-      "path": "一生一芯/verilog.md"
+      "basename": "nvim",
+      "path": "CPP/小彭老师/nvim.md"
     },
     {
-      "basename": "LiteOS 任务调度",
-      "path": "分布式操作系统/LiteOS 任务调度.md"
+      "basename": "nvim",
+      "path": "vim/nvim.md"
     },
     {
-      "basename": "一次开发，多端部署",
-      "path": "分布式操作系统/一次开发，多端部署.md"
+      "basename": "new",
+      "path": "CPP/散乱/new.md"
     },
     {
-      "basename": "软总线各模块工作流程",
-      "path": "分布式操作系统/软总线各模块工作流程.md"
+      "basename": "vector",
+      "path": "CPP/vector.md"
     },
     {
-      "basename": "后端",
-      "path": "毕设/后端.md"
+      "basename": "内存次序",
+      "path": "CPP/内存次序.md"
     },
     {
-      "basename": "ORB-SLAM3安装与运行",
-      "path": "PDF/ORB-SLAM3安装与运行.pdf"
+      "basename": "doc",
+      "path": "vscode/doc.md"
     },
     {
-      "basename": "优化",
-      "path": "毕设/优化.md"
+      "basename": "clangd",
+      "path": "vscode/clangd.md"
     },
     {
-      "basename": "5 local mapping",
-      "path": "毕设/5 local mapping.md"
+      "basename": "xv6",
+      "path": "xv6.md"
     },
     {
-      "basename": "yosys-ista",
-      "path": "一生一芯/yosys-ista.md"
+      "basename": "OB 美化+功能插件",
+      "path": "OB 美化+功能插件.md"
     },
     {
-      "basename": "nvboard报错解决",
-      "path": "一生一芯/nvboard报错解决.md"
+      "basename": "GDB  STUDY",
+      "path": "GDB  STUDY.md"
+    },
+    {
+      "basename": "小余景奇学习灯塔！！！！v我50",
+      "path": "小余景奇学习灯塔！！！！v我50.md"
+    },
+    {
+      "basename": "arkts卡片稿子",
+      "path": "arkts卡片稿子.md"
+    },
+    {
+      "basename": "模式识别与深度学习实验报告",
+      "path": "模式识别与深度学习实验报告.md"
+    },
+    {
+      "basename": "共情",
+      "path": "共情.md"
+    },
+    {
+      "basename": "{95282F6F-CB44-F549-24C8-D97736C5FD38}",
+      "path": "体系结构/images/{95282F6F-CB44-F549-24C8-D97736C5FD38}.jpg"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "体系结构/images/未命名 1.png"
+    },
+    {
+      "basename": "体系结构导图",
+      "path": "体系结构/体系结构导图.canvas"
+    },
+    {
+      "basename": "2024-10-21",
+      "path": "2024-10-21.md"
+    },
+    {
+      "basename": "Drawing 2024-02-21 06.10.11.excalidraw",
+      "path": "Excalidraw/Drawing 2024-02-21 06.10.11.excalidraw.md"
+    },
+    {
+      "basename": "装机配置",
+      "path": "装机配置.md"
+    },
+    {
+      "basename": "compile explorer",
+      "path": "compile explorer.md"
+    },
+    {
+      "basename": "GCC",
+      "path": "GCC.md"
+    },
+    {
+      "basename": "for 小鼠鱼 2",
+      "path": "for 小鼠鱼 2.md"
+    },
+    {
+      "basename": "study path",
+      "path": "study path.md"
+    },
+    {
+      "basename": "镜中",
+      "path": "镜中.md"
+    },
+    {
+      "basename": "00后改变了职场",
+      "path": "00后改变了职场.md"
+    },
+    {
+      "basename": "在线查看代码",
+      "path": "github/在线查看代码.md"
+    },
+    {
+      "basename": "Pasted image 20240122001613",
+      "path": "github/images/Pasted image 20240122001613.png"
+    },
+    {
+      "basename": "static",
+      "path": "CPP/static.md"
+    },
+    {
+      "basename": "链接库",
+      "path": "CPP/cmake/images/链接库.png"
+    },
+    {
+      "basename": "CPP 里split实现方式",
+      "path": "CPP/散乱/CPP 里split实现方式.md"
     },
     {
       "basename": "状态机",
       "path": "一生一芯/状态机.md"
     },
     {
-      "basename": "实验一",
-      "path": "一生一芯/数电实验/实验一.md"
+      "basename": "nvboard报错解决",
+      "path": "一生一芯/nvboard报错解决.md"
     },
     {
-      "basename": "不在乎",
-      "path": "不在乎.md"
+      "basename": "verilog",
+      "path": "一生一芯/verilog.md"
+    },
+    {
+      "basename": "yosys-ista",
+      "path": "一生一芯/yosys-ista.md"
+    },
+    {
+      "basename": "实验一 词法分析与语法分析",
+      "path": "编译原理/实验一 词法分析与语法分析.md"
+    },
+    {
+      "basename": "实验三   中间代码生成",
+      "path": "编译原理/实验三   中间代码生成.md"
+    },
+    {
+      "basename": "实验二 语义分析",
+      "path": "编译原理/实验二 语义分析.md"
+    },
+    {
+      "basename": "p4",
+      "path": "_docs/Setting up development and test sets/p4.md"
+    },
+    {
+      "basename": "p5",
+      "path": "_docs/Basic Error Analysis/p5.md"
+    },
+    {
+      "basename": "p1",
+      "path": "_docs/p1.md"
+    },
+    {
+      "basename": "2024-02-21",
+      "path": "2024-02-21.md"
+    },
+    {
+      "basename": "生物化学阅读报告1",
+      "path": "生物化学阅读报告1.md"
     }
   ],
   "omittedPaths": [],

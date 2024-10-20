@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "communityThemeSortOrder": "download",
   "defaultViewMode": "source",
   "showFrontmatter": false,
@@ -20,5 +20,7 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "autoPairBrackets": true
 }

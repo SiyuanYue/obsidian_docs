@@ -87,6 +87,21 @@ settings:
         step: 10
         default: 140
         format: px
+    -
+        id: pdf-plus-vim
+        title: Vim keybindings
+        type: heading
+        level: 2
+    -
+        id: pdf-plus-vim-hin
+        title: Hint mode
+        type: heading
+        level: 3
+    - 
+        id: pdf-plus-vim-hint-inverted
+        title: Inverted color scheme
+        type: class-toggle
+        default: false
 */
 
 :root {
@@ -142,11 +157,17 @@ settings:
     justify-content: center;
     align-items: center;
 
-    .pdf-plus-color-palette-item-inner {
-        width: var(--swatch-width);
-        height: var(--swatch-width);
-        border-radius: 50%;
-        border: var(--input-border-width) solid var(--background-modifier-border);
+    .pdf-plus-color-palette-item {
+        /* Avoid text selections to be cleared when tapping on a color palette item on the mobile app */
+        /* https://github.com/RyotaUshio/obsidian-pdf-plus/issues/169 */
+        user-select: none;
+
+        .pdf-plus-color-palette-item-inner {
+            width: var(--swatch-width);
+            height: var(--swatch-width);
+            border-radius: 50%;
+            border: var(--input-border-width) solid var(--background-modifier-border);
+        }
     }
 
     .pdf-plus-color-palette-status-container {
@@ -296,8 +317,7 @@ settings:
 }
 
 body:not(.pdf-plus-backlink-selection-underline) .pdf-plus-backlink-highlight-layer .pdf-plus-backlink.pdf-plus-backlink-selection {
-    background-color: var(--pdf-plus-color);
-    opacity: var(--pdf-plus-highlight-opacity, 0.2);
+    background-color: rgb(from var(--pdf-plus-color) r g b / var(--pdf-plus-highlight-opacity, 0.2));
     padding: var(--pdf-plus-highlight-padding-vertical-em, var(--pdf-plus-highlight-padding-default-em)) var(--pdf-plus-highlight-padding-horizontal-em, var(--pdf-plus-highlight-padding-default-em));
     margin: calc(var(--pdf-plus-highlight-padding-vertical-em, var(--pdf-plus-highlight-padding-default-em)) * -1) calc(var(--pdf-plus-highlight-padding-horizontal-em, var(--pdf-plus-highlight-padding-default-em)) * -1);
     border-radius: 0.1em;
@@ -329,8 +349,7 @@ body.pdf-plus-backlink-selection-underline {
 }
 
 .pdf-plus-backlink-highlight-layer .pdf-plus-backlink.pdf-plus-backlink-fit-r {
-    border: dashed var(--pdf-plus-rect-color) var(--pdf-plus-rect-highlight-border-width, 2px);
-    opacity: var(--pdf-plus-rect-highlight-opacity, 1);
+    border: dashed rgb(from var(--pdf-plus-rect-color) r g b / var(--pdf-plus-rect-highlight-opacity, 1)) var(--pdf-plus-rect-highlight-border-width, 2px);
 }
 
 .pdf-plus-backlink-icon {
@@ -439,7 +458,7 @@ body.pdf-plus-backlink-selection-underline {
 }
 
 .pdf-plus-page-label-modal {
-    z-index: var(--layer-popover);
+    z-index: var(--he-popover-layer-inactive, var(--layer-popover));
 
     .page-labels-loading {
         color: var(--text-muted);
@@ -511,6 +530,11 @@ body {
         padding: var(--size-4-3);
         font-size: var(--font-ui-medium);
 
+        /* Make text inside citation hover selectable (https://github.com/RyotaUshio/obsidian-pdf-plus/issues/252) */
+        -moz-user-select: text;
+        -webkit-user-select: text;
+        user-select: text;
+
         .bib-title {
             font-weight: bold;
             padding-bottom: var(--size-4-2);
@@ -537,4 +561,45 @@ body {
             flex-wrap: wrap;
         }
     }
+}
+
+.pdf-plus-vim-command {
+    border-top: 1px solid var(--background-modifier-border);
+    /* height: var(--size-4-8); */
+    font-family: monospace;
+
+    input {
+        background: transparent;
+        border: none;
+        outline: none;
+        font-family: monospace;
+        white-space: pre;
+        width: 90%;
+    }
+}
+
+.page.pdf-plus-vim-hint-mode [data-pdf-plus-vim-hint]::after {
+    content: attr(data-pdf-plus-vim-hint);
+    color: var(--pdf-plus-vim-hint-color);
+    text-transform: uppercase;
+    font-size: var(--font-ui-medium);
+    font-weight: bold;
+    background-color: var(--pdf-plus-vim-hint-background-color);
+    border: var(--size-2-1) solid hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+    border-radius: 10%;
+    padding: 0 var(--size-2-2);
+    position: relative;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+}
+
+body {
+    --pdf-plus-vim-hint-color: var(--text-normal);
+    --pdf-plus-vim-hint-background-color: var(--background-primary);
+}
+
+body.pdf-plus-vim-hint-inverted {
+    --pdf-plus-vim-hint-color: var(--text-on-accent);
+    --pdf-plus-vim-hint-background-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
 }
