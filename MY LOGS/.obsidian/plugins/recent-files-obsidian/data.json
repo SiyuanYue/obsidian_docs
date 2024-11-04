@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "1",
-      "path": "CPP/C++ primer 二周目/1.md"
+      "basename": "目标文件",
+      "path": "链接、装载与库/目标文件.md"
+    },
+    {
+      "basename": "2 变量和基本类型",
+      "path": "CPP/C++ primer 二周目/2 变量和基本类型.md"
+    },
+    {
+      "basename": "1 开始",
+      "path": "CPP/C++ primer 二周目/1 开始.md"
     },
     {
       "basename": "04 分配器（allocator）、new 、RAII",
@@ -191,10 +199,6 @@
     {
       "basename": "2024-02-21",
       "path": "2024-02-21.md"
-    },
-    {
-      "basename": "生物化学阅读报告1",
-      "path": "生物化学阅读报告1.md"
     }
   ],
   "omittedPaths": [],
