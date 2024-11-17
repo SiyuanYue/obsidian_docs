@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "dynamic link",
+      "path": "链接、装载与库/dynamic link.md"
+    },
+    {
       "basename": "目标文件",
       "path": "链接、装载与库/目标文件.md"
+    },
+    {
+      "basename": "what is docker",
+      "path": "what is docker.md"
     },
     {
       "basename": "2 变量和基本类型",
@@ -191,14 +199,6 @@
     {
       "basename": "p5",
       "path": "_docs/Basic Error Analysis/p5.md"
-    },
-    {
-      "basename": "p1",
-      "path": "_docs/p1.md"
-    },
-    {
-      "basename": "2024-02-21",
-      "path": "2024-02-21.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,2 @@
+![[QQ_1731865764030.png|696]]
+[docker是什么？和kubernetes(k8s)是什么关系？\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1aA4m1w7Ew?spm_id_from=player_end_recommend_autoplay&vd_source=33d3156975c92d1beb9e11e8b218f8b0)
