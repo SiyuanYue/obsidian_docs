@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "dynamic link",
-      "path": "链接、装载与库/dynamic link.md"
+      "basename": "软件与配置",
+      "path": "软件与配置.md"
+    },
+    {
+      "basename": "程序的内存布局",
+      "path": "链接、装载与库/程序的内存布局.md"
+    },
+    {
+      "basename": "查看ELF依赖哪些库",
+      "path": "链接、装载与库/查看ELF依赖哪些库.md"
     },
     {
       "basename": "目标文件",
       "path": "链接、装载与库/目标文件.md"
+    },
+    {
+      "basename": "dynamic link",
+      "path": "链接、装载与库/dynamic link.md"
     },
     {
       "basename": "what is docker",
@@ -187,18 +199,6 @@
     {
       "basename": "实验三   中间代码生成",
       "path": "编译原理/实验三   中间代码生成.md"
-    },
-    {
-      "basename": "实验二 语义分析",
-      "path": "编译原理/实验二 语义分析.md"
-    },
-    {
-      "basename": "p4",
-      "path": "_docs/Setting up development and test sets/p4.md"
-    },
-    {
-      "basename": "p5",
-      "path": "_docs/Basic Error Analysis/p5.md"
     }
   ],
   "omittedPaths": [],
