@@ -89,33 +89,27 @@
             }
           },
           {
-            "id": "891ae2c03496d2c4",
+            "id": "73522b3b6f5551af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "链接、装载与库/查看ELF依赖哪些库.md",
+                "file": "CPP/C++ primer 二周目/2 变量和基本类型.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "查看ELF依赖哪些库"
-            }
-          },
-          {
-            "id": "609fe69d5f287561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件与配置.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "软件与配置"
+              "title": "2 变量和基本类型"
             }
           },
           {
@@ -132,24 +126,9 @@
               "icon": "lucide-file",
               "title": "dynamic link"
             }
-          },
-          {
-            "id": "46be09c7c8ad8e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what is docker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what is docker"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +148,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -367,22 +347,23 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "609fe69d5f287561",
+  "active": "50d88b6d28315467",
   "lastOpenFiles": [
+    "CPP/C++ primer 二周目/1 开始.md",
+    "CPP/C++ primer 二周目/2 变量和基本类型.md",
+    "链接、装载与库/进程虚拟空间.md",
+    "链接、装载与库/dynamic link.md",
+    "链接、装载与库/目标文件.md",
     "链接、装载与库/查看ELF依赖哪些库.md",
     "软件与配置.md",
-    "链接、装载与库/程序的内存布局.md",
-    "链接、装载与库/目标文件.md",
-    "链接、装载与库/dynamic link.md",
     "what is docker.md",
+    "链接、装载与库/程序的内存布局.md",
     "链接、装载与库/images/QQ_1731865764030.png",
     "链接、装载与库/images/QQ_1730308345232.png",
     "链接、装载与库/images/2024_10_31.jpeg",
     "链接、装载与库/images",
-    "CPP/C++ primer 二周目/2 变量和基本类型.md",
     "CPP/C++ primer 二周目/未命名.md",
     "链接、装载与库",
-    "CPP/C++ primer 二周目/1 开始.md",
     "CPP/侯捷STL/04 分配器（allocator）、new 、RAII.md",
     "CPP/字面值与常量.md",
     "CPP/标量类型 POD.md",
@@ -401,7 +382,6 @@
     "GDB  STUDY.md",
     "小余景奇学习灯塔！！！！v我50.md",
     "arkts卡片稿子.md",
-    "模式识别与深度学习实验报告.md",
     "体系结构/images/{95282F6F-CB44-F549-24C8-D97736C5FD38}.jpg",
     "体系结构/images/未命名 1.png",
     "体系结构/体系结构导图.canvas",
