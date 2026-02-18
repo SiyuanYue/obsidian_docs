@@ -1,5 +1,4 @@
 .obsidian/
-
 *.pdf
-
-tx游戏课/
+.DS_Store
+*/.DS_Store
