@@ -8,93 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0217665537520fe1",
+            "id": "4bdddc132e67ae73",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP/侯捷STL/04 分配器（allocator）、new 、RAII.md",
-                "mode": "preview",
+                "file": "arkts/get start.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04 分配器（allocator）、new 、RAII"
+              "title": "get start"
             }
           },
           {
-            "id": "dd0407a3a38328d6",
+            "id": "24d62af6de6ff8e2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP/字面值与常量.md",
+                "file": "arkts/Concurrency/1.2ConcurrentHashMap.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "字面值与常量"
+              "title": "1.2ConcurrentHashMap"
             }
           },
           {
-            "id": "643842be5a3aaba8",
+            "id": "0be2f24963969518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP/标量类型 POD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "标量类型 POD"
-            }
-          },
-          {
-            "id": "9535542c83b66051",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP/C++ primer 二周目/1 开始.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1 开始"
-            }
-          },
-          {
-            "id": "1467000dc03c2805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链接、装载与库/目标文件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "目标文件"
-            }
-          },
-          {
-            "id": "73522b3b6f5551af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP/C++ primer 二周目/2 变量和基本类型.md",
+                "file": "arkts/Concurrency/Java 8 ConcurrentHashMap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,26 +80,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 变量和基本类型"
+              "title": "Java 8 ConcurrentHashMap"
             }
           },
           {
-            "id": "24a55d2847c9aba4",
+            "id": "86575821391e8934",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "链接、装载与库/dynamic link.md",
+                "file": "一生一芯/状态机.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "dynamic link"
+              "title": "状态机"
+            }
+          },
+          {
+            "id": "5838be7fb9a40394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arkts/Concurrency/1.2ConcurrentHashMap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.2ConcurrentHashMap"
+            }
+          },
+          {
+            "id": "56a7e62955f8c91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arkts/Concurrency/Java 8 ConcurrentHashMap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java 8 ConcurrentHashMap"
+            }
+          },
+          {
+            "id": "c5e5aa5ee0fb8971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arkts/JS TS/Promise的使用.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Promise的使用"
+            }
+          },
+          {
+            "id": "2ac6b6e4a59304b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件与配置.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "软件与配置"
+            }
+          },
+          {
+            "id": "32a2bee916877815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arkts/Concurrency/Java 8 ConcurrentHashMap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java 8 ConcurrentHashMap"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +240,7 @@
       {
         "id": "9e77e25bd1c3568a",
         "type": "tabs",
-        "dimension": 77.22095671981776,
+        "dimension": 62.89424860853432,
         "children": [
           {
             "id": "50d88b6d28315467",
@@ -149,7 +249,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -161,8 +261,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "readelf",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -187,7 +287,7 @@
       {
         "id": "799731b761167f30",
         "type": "tabs",
-        "dimension": 22.779043280182233,
+        "dimension": 37.105751391465674,
         "children": [
           {
             "id": "a6cf26993a026cc7",
@@ -203,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 342.5024719238281
   },
   "right": {
     "id": "ff6fc7da753c988b",
@@ -243,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP/C++ primer 二周目/1 开始.md",
+                "file": "arkts/Concurrency/Java 8 ConcurrentHashMap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1 开始 的反向链接列表"
+              "title": "Java 8 ConcurrentHashMap 的反向链接列表"
             }
           },
           {
@@ -262,12 +362,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP/C++ primer 二周目/2 变量和基本类型.md",
+                "file": "arkts/JS TS/Promise的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2 变量和基本类型 的出链列表"
+              "title": "Promise的使用 的出链列表"
             }
           },
           {
@@ -283,7 +383,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "aa6cb780d35a5209",
@@ -323,13 +423,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "big-calendar:Big Calendar": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "audio-recorder:开始/结束录音": false,
       "command-palette:打开命令面板": true,
       "switcher:打开快速切换": false,
-      "workspaces:管理工作区布局": false,
+      "workspaces:管理工作区布局": true,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
@@ -338,7 +439,6 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-file-cleaner:清理文件": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -347,55 +447,55 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "50d88b6d28315467",
+  "active": "86575821391e8934",
   "lastOpenFiles": [
-    "CPP/C++ primer 二周目/1 开始.md",
-    "CPP/C++ primer 二周目/2 变量和基本类型.md",
-    "链接、装载与库/进程虚拟空间.md",
-    "链接、装载与库/dynamic link.md",
+    "arkts/ch8 泛型.md",
+    "arkts/ch7 类与对象.md",
+    "arkts/ArrayBuffer.md",
+    "arkts/Concurrency/Concurrent Containers cont'd.md",
+    "arkts/Concurrency/Concu.md",
+    "arkts/Concurrency/ConcurrentHashMap.md",
+    "arkts/Concurrency/BlockingQueue.md",
+    "arkts/Concurrency/Java 8 ConcurrentHashMap.md",
+    "arkts/Concurrency/images/ConcurrentHashMap_Hierarchy.png",
+    "arkts/Concurrency/goroutine.md",
+    "arkts/Concurrency/1.2ConcurrentHashMap.md",
+    "arkts/JS TS/Promise的使用.md",
+    "软件与配置.md",
+    "arkts/void & undefined & null 与那些奇奇怪怪的运算符们.md",
+    "java/JVM 类加载.md",
+    "arkts/Concurrency/Coroutine_Manager.md",
+    "arkts/Concurrency/JAVA Concurrent.md",
+    "分支覆盖率.md",
+    "arkts/环境.md",
+    "arkts/get start.md",
     "链接、装载与库/目标文件.md",
     "链接、装载与库/查看ELF依赖哪些库.md",
-    "软件与配置.md",
-    "what is docker.md",
-    "链接、装载与库/程序的内存布局.md",
-    "链接、装载与库/images/QQ_1731865764030.png",
-    "链接、装载与库/images/QQ_1730308345232.png",
-    "链接、装载与库/images/2024_10_31.jpeg",
-    "链接、装载与库/images",
-    "CPP/C++ primer 二周目/未命名.md",
-    "链接、装载与库",
-    "CPP/侯捷STL/04 分配器（allocator）、new 、RAII.md",
-    "CPP/字面值与常量.md",
-    "CPP/标量类型 POD.md",
-    "PDF/标量类型 POD.pdf",
-    "CPP/PDFs/C++ Primer (第5版中文版) (Stanley B. Lippman，Josee Lajoie，Barbara E. Moo) (Z-Library).pdf",
-    "vim/基础篇.md",
-    "CPP/小彭老师/nvim.md",
-    "vim/nvim.md",
-    "CPP/散乱/new.md",
-    "CPP/vector.md",
-    "CPP/内存次序.md",
-    "vscode/doc.md",
-    "vscode/clangd.md",
-    "xv6.md",
-    "OB 美化+功能插件.md",
-    "GDB  STUDY.md",
-    "小余景奇学习灯塔！！！！v我50.md",
-    "arkts卡片稿子.md",
-    "体系结构/images/{95282F6F-CB44-F549-24C8-D97736C5FD38}.jpg",
-    "体系结构/images/未命名 1.png",
+    "Git/git 分支.md",
+    "Git/git 杂项汇总.md",
+    "Git/git 远程链接.md",
+    "java/泛型.md",
+    "arkts/ArkTS数据类型.md",
+    "arkts/Concurrency/images/QQ_1753085076051.png",
     "体系结构/体系结构导图.canvas",
-    "CPP/C++ Primer (第5版中文版) (Stanley B. Lippman，Josee Lajoie，Barbara E. Moo) (Z-Library).pdf",
-    "CPP/PDFs",
-    "CPP/小彭老师",
-    "github/images/Pasted image 20240122001613.png",
-    "CPP/cmake/images/链接库.png",
-    "CPP/C++ primer 二周目",
-    "Machine Learning/附件/Pasted image 20221223232859.png",
-    "CPP/散乱",
-    "Harmony OS NEXT",
-    "images/Astra相机标定.png",
-    "分布式操作系统/images/鸿蒙文件系统报告-2.png",
+    "未命名 5",
+    "未命名 4",
+    "未命名 3",
+    "Alipay",
+    "未命名 1",
+    "未命名",
+    "arkts/Concurrency/images/QQ_1744461563409.png",
+    "arkts/Concurrency/images/QQ_1744461291406.png",
+    "arkts/Concurrency/images/QQ_1744461272405.png",
+    "arkts/Concurrency/images/QQ_1744461224396.png",
+    "arkts/Concurrency/images/QQ_1744461169795.png",
+    "arkts/Concurrency/images/QQ_1744457608582.png",
+    "java",
+    "arkts/Concurrency/images/QQ_1743044633035.png",
+    "arkts/JS TS/images/Promise的使用.png",
+    "arkts/Concurrency/images",
+    "arkts/Concurrency",
+    "arkts/JS TS/images",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"

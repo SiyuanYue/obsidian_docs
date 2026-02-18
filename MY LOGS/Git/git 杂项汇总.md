@@ -28,9 +28,6 @@ A -- B -- C (main)
 - `HEAD^` 指向 `B`。
 
 再假设你有一个合并提交的历史如下：
-
-浅色版本
-
 ```
 A -- B -- D (main)
      \    /
@@ -80,13 +77,11 @@ git diff HEAD^
 ```sh
 git format-patch -1 <commit-hash>
 ```
-
 其中 `<commit-hash>` 是你想要生成 `patch` 的提交的哈希值。`-1` 表示只生成一个提交的 `patch`。
 
 **生成某commit以来的修改patch（不包含该commit**
 
 `git format-patch HEAD^` 生成最近的1次commit的patch
-
 `git format-patch HEAD^^`生成最近的2次commit的patch
 
 **生成两个commit间的修改的patch**
@@ -96,15 +91,10 @@ git format-patch -1 <commit-hash>
 ### 应用patch
 
 `git apply --stat ****.diff`
-
 查看patch的情况
-
 `git apply --check ****.diff`
-
 检查patch是否能够打上，如果没有任何输出，则说明无冲突，可以打上
-
 **应用patch**
-
 `git am`与`git apply
 
 >git apply是另外一种打patch的命令，其与git am的区别是，git apply并不会将commit message等打上去，打完patch后需要重新git add和git commit，而git am会直接将patch的所有信息打上去，而且不用重新git add和git commit,author也是patch的author而不是打patch的人
@@ -134,15 +124,14 @@ git rebase -i HEAD~n
 	- `pick`：保留提交
 	- `squash`：将当前提交与前一个提交合并，并保留提交信息
 	- `fixup`：将当前提交与前一个提交合并，但不保留当前提交的提交信息
+	
 	例如，假设你有以下提交历史：
 	```sh
 	pick abc1234 Commit 1
 	pick def4567 Commit 2
 	pick ghi7890 Commit 3
 	```
-	
 	你可以修改为：
-
 	```sh
 	pick abc1234 Commit 1
 	squash def4567 Commit 2

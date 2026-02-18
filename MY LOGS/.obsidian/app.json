@@ -16,11 +16,14 @@
   },
   "attachmentFolderPath": "./images",
   "readableLineLength": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showInlineTitle": false,
   "spellcheck": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "showIndentGuide": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

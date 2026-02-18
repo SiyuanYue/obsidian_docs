@@ -1,16 +1,15 @@
 {
   "interfaceFontFamily": "HarmonyOS Sans",
-  "translucency": false,
+  "translucency": true,
   "monospaceFontFamily": "Maple Mono SC NF,Noto Sans Mono CJK SC",
   "baseFontSize": 16,
-  "cssTheme": "Things",
-  "accentColor": "#8826c9",
-  "theme": "obsidian",
+  "cssTheme": "theme",
+  "accentColor": "",
+  "theme": "system",
   "enabledCssSnippets": [
-    "预览模式优化-空白行-行间距",
-    "yaozhuwa@CSS",
     "extended-colorschemes",
-    "段落首行缩进"
+    "预览模式优化-空白行-行间距",
+    "yaozhuwa@CSS"
   ],
   "textFontFamily": "HarmonyOS Sans",
   "showViewHeader": true,
